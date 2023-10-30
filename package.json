@@ -1,0 +1,11 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "this is a webpack demo for practice",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishi raj",
+  "license": "ISC"
+}
