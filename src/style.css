@@ -1,4 +1,11 @@
+@font-face {
+    font-family: 'groovy';
+    src: url(./FunGroovy-1GB12.ttf);
+}
+
 .hello {
     color: red;
+    font-family: 'groovy';
+    font-weight: 900;
     background-color: url('./man.png');
 }
